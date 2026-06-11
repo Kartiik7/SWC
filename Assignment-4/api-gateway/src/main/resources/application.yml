@@ -1,0 +1,49 @@
+server:
+  port: 8080 # The gateway runs on port 8080 and intercepts all client requests
+
+spring:
+  application:
+    name: api-gateway
+
+  cloud:
+    gateway:
+      # Declarative routing configuration in YAML
+      # This runs parallel to GatewayConfig.java to demonstrate both methods.
+      routes:
+        
+        # 1. Route to Auth Service (Public endpoints)
+        - id: auth-service
+          uri: http://localhost:8081 # Target location of the Auth Service
+          predicates:
+            - Path=/auth/** # Matches any request starting with /auth
+          filters:
+            # Add a custom response header just for demonstration
+            - AddResponseHeader=X-Gateway-Processed, True
+
+        # 2. Route to Movie Service (Requires Authentication)
+        - id: movie-service
+          uri: http://localhost:8082 # Target location of the Movie Service
+          predicates:
+            - Path=/movies/** # Matches any request starting with /movies
+          filters:
+            # Applies the custom JwtValidationFilter we defined in code
+            - name: JwtValidationFilter
+
+        # 3. Route to Booking Service (Requires Authentication)
+        - id: booking-service
+          uri: http://localhost:8083 # Target location of the Booking Service
+          predicates:
+            - Path=/booking/** # Matches any request starting with /booking
+          filters:
+            - name: JwtValidationFilter
+            # Optional: Demonstrates how a fallback route is linked to a circuit breaker
+            # - name: CircuitBreaker
+            #   args:
+            #     name: bookingServiceCircuitBreaker
+            #     fallbackUri: forward:/fallback/booking
+
+# Application-specific JWT parameters
+jwt:
+  # The signature secret must match the key used by the Auth Service to sign tokens.
+  # Must be at least 256 bits (32 bytes) for HmacSHA256 signature verification.
+  secret: my-secret-signing-key-for-jwt-verification-must-be-long-enough-32bytes

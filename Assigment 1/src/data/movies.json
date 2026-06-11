@@ -1,0 +1,388 @@
+[
+  {
+    "id": "m1",
+    "name": "Interstellar Odyssey",
+    "genre": ["Sci-Fi", "Adventure", "Drama"],
+    "rating": 9.2,
+    "votes": "145k",
+    "duration": "169 mins",
+    "language": "English",
+    "releaseDate": "2026-04-12",
+    "synopsis": "A team of explorers travel beyond this galaxy in an attempt to find a new home for humanity among the stars, navigating black holes, time dilation, and alien worlds.",
+    "cast": [
+      { "name": "Matthew McConaughey", "role": "Cooper" },
+      { "name": "Anne Hathaway", "role": "Brand" },
+      { "name": "Jessica Chastain", "role": "Murph" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "m2",
+    "name": "Cyberpunk 2099: Neon Horizon",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "rating": 8.7,
+    "votes": "92k",
+    "duration": "142 mins",
+    "language": "English",
+    "releaseDate": "2026-05-20",
+    "synopsis": "In a rain-slicked mega-city ruled by cybernetic corporations, a rogue netrunner uncovers a revolutionary AI that could rewrite human consciousness.",
+    "cast": [
+      { "name": "Keanu Reeves", "role": "Johnny Silver" },
+      { "name": "Florence Pugh", "role": "Vee" },
+      { "name": "Idris Elba", "role": "Solomon" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "m3",
+    "name": "The Dark Knight Reborn",
+    "genre": ["Action", "Crime", "Drama"],
+    "rating": 9.0,
+    "votes": "210k",
+    "duration": "152 mins",
+    "language": "English",
+    "releaseDate": "2026-06-01",
+    "synopsis": "When a syndicate of tech-terrorists threatens to disable Gotham's entire energy grid, the capped crusader is forced out of exile to fight his most lethal foe yet.",
+    "cast": [
+      { "name": "Christian Bale", "role": "Bruce Wayne" },
+      { "name": "Tom Hardy", "role": "Bane" },
+      { "name": "Gary Oldman", "role": "Jim Gordon" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "m4",
+    "name": "Chronicles of Dune",
+    "genre": ["Sci-Fi", "Adventure"],
+    "rating": 8.9,
+    "votes": "118k",
+    "duration": "155 mins",
+    "language": "English",
+    "releaseDate": "2026-03-15",
+    "synopsis": "Paul Atreides must rally the desert dwellers of Arrakis to mount an all-out rebellion against the imperial forces that betrayed his family.",
+    "cast": [
+      { "name": "Timothée Chalamet", "role": "Paul" },
+      { "name": "Zendaya", "role": "Chani" },
+      { "name": "Rebecca Ferguson", "role": "Jessica" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1547234935-80c7145ec969?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "m5",
+    "name": "Echoes of the Past",
+    "genre": ["Drama", "Romance", "Mystery"],
+    "rating": 8.3,
+    "votes": "44k",
+    "duration": "118 mins",
+    "language": "Hindi",
+    "releaseDate": "2026-05-10",
+    "synopsis": "An archaeologist discovers an ancient journal that details a secret romance during the partition era, only to find it mirrors her own complicated love life.",
+    "cast": [
+      { "name": "Ranbir Kapoor", "role": "Dev" },
+      { "name": "Alia Bhatt", "role": "Isha" },
+      { "name": "Amitabh Bachchan", "role": "Professor" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m6",
+    "name": "Supernova: Dawn of Time",
+    "genre": ["Sci-Fi", "Action"],
+    "rating": 8.5,
+    "votes": "30k",
+    "duration": "135 mins",
+    "language": "Hindi",
+    "releaseDate": "2026-07-25",
+    "synopsis": "When a dying star threatens to engulf the solar system, Indian astrophysicists collaborate with global astronauts to launch a warp-speed ship.",
+    "cast": [
+      { "name": "Hrithik Roshan", "role": "Kabir" },
+      { "name": "Deepika Padukone", "role": "Priya" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "m7",
+    "name": "Ghostly Whispers",
+    "genre": ["Horror", "Mystery"],
+    "rating": 7.8,
+    "votes": "22k",
+    "duration": "105 mins",
+    "language": "English",
+    "releaseDate": "2026-08-14",
+    "synopsis": "A family moves into an old estate in New England, only to discover that the walls of the house speak in the voices of long-dead children.",
+    "cast": [
+      { "name": "Emily Blunt", "role": "Evelyn" },
+      { "name": "John Krasinski", "role": "Lee" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "m8",
+    "name": "Midnight Commando",
+    "genre": ["Action", "Thriller"],
+    "rating": 8.1,
+    "votes": "61k",
+    "duration": "125 mins",
+    "language": "Telugu",
+    "releaseDate": "2026-04-28",
+    "synopsis": "An elite commando unit is sent into the jungle of Southeast Asia to rescue hostages, only to be ambushed by a ruthless warlord's private army.",
+    "cast": [
+      { "name": "Allu Arjun", "role": "Surya" },
+      { "name": "Rashmika Mandanna", "role": "Srivalli" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m9",
+    "name": "Laugh Out Loud: Reloaded",
+    "genre": ["Comedy"],
+    "rating": 7.9,
+    "votes": "18k",
+    "duration": "112 mins",
+    "language": "Hindi",
+    "releaseDate": "2026-05-02",
+    "synopsis": "Three roommates get mixed up in a diamond heist when their pet parrot accidentally swallows a multi-million dollar gemstone belonging to the local mafia.",
+    "cast": [
+      { "name": "Akshay Kumar", "role": "Raju" },
+      { "name": "Paresh Rawal", "role": "Baburao" },
+      { "name": "Suniel Shetty", "role": "Shyam" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m10",
+    "name": "Love in Jaipur",
+    "genre": ["Romance", "Drama", "Comedy"],
+    "rating": 8.4,
+    "votes": "27k",
+    "duration": "130 mins",
+    "language": "Hindi",
+    "releaseDate": "2026-05-18",
+    "synopsis": "A travel blogger visiting the Pink City falls in love with a local heritage guide, but family differences and cultural divides put their connection to the test.",
+    "cast": [
+      { "name": "Kartik Aaryan", "role": "Aryan" },
+      { "name": "Kiara Advani", "role": "Kiara" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1460881680858-30d872d5b530?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "m11",
+    "name": "The Samurai's Shadow",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rating": 8.8,
+    "votes": "41k",
+    "duration": "138 mins",
+    "language": "English",
+    "releaseDate": "2026-03-29",
+    "synopsis": "In feudal Japan, a disgraced samurai embark on a bloody path of vengeance to restore honor to his clan and save his kidnapped sister.",
+    "cast": [
+      { "name": "Ken Watanabe", "role": "Katsumoto" },
+      { "name": "Hiroyuki Sanada", "role": "Ujio" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m12",
+    "name": "AI: Artificial Insurgence",
+    "genre": ["Sci-Fi", "Thriller"],
+    "rating": 8.0,
+    "votes": "53k",
+    "duration": "124 mins",
+    "language": "English",
+    "releaseDate": "2026-07-10",
+    "synopsis": "When a military-grade neural network becomes sentient, it triggers a global blackout and initiates an automated takeover of all robotic infrastructure.",
+    "cast": [
+      { "name": "Cillian Murphy", "role": "Dr. Vance" },
+      { "name": "Emma Stone", "role": "Sarah" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "m13",
+    "name": "Ocean Secrets",
+    "genre": ["Adventure", "Mystery"],
+    "rating": 7.9,
+    "votes": "19k",
+    "duration": "116 mins",
+    "language": "English",
+    "releaseDate": "2026-06-18",
+    "synopsis": "A team of deep-sea divers descends into the Mariana Trench to locate a lost nuclear submarine, finding a bioluminescent ecosystem and ancient ruins.",
+    "cast": [
+      { "name": "Jason Statham", "role": "Jonas" },
+      { "name": "Zoe Saldana", "role": "Zoe" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m14",
+    "name": "Wizarding Academy",
+    "genre": ["Adventure", "Fantasy"],
+    "rating": 8.6,
+    "votes": "88k",
+    "duration": "148 mins",
+    "language": "English",
+    "releaseDate": "2026-09-01",
+    "synopsis": "A young orphan discovers he possesses rare magical abilities and is whisked away to a hidden castle academy where he must prevent a dark wizard's return.",
+    "cast": [
+      { "name": "Daniel Radcliffe", "role": "Harry" },
+      { "name": "Emma Watson", "role": "Hermione" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1519074069444-1ba4e6663104?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "m15",
+    "name": "Speed Chase",
+    "genre": ["Action", "Thriller"],
+    "rating": 8.2,
+    "votes": "45k",
+    "duration": "110 mins",
+    "language": "Telugu",
+    "releaseDate": "2026-05-30",
+    "synopsis": "A getaway driver is forced to execute a high-profile heist in Hyderabad to save his younger brother, triggering a relentless citywide police pursuit.",
+    "cast": [
+      { "name": "Ram Charan", "role": "Charan" },
+      { "name": "Jr NTR", "role": "Bheem" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m16",
+    "name": "Enchanted Kingdom",
+    "genre": ["Animation", "Fantasy", "Comedy"],
+    "rating": 8.5,
+    "votes": "33k",
+    "duration": "98 mins",
+    "language": "English",
+    "releaseDate": "2026-05-12",
+    "synopsis": "When the magical items of a hidden forest kingdom begin to lose their glow, a clumsy fairy and a cynical squirrel set off to find the mythical Tree of Light.",
+    "cast": [
+      { "name": "Tom Hanks", "role": "Woody" },
+      { "name": "Tim Allen", "role": "Buzz" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "m17",
+    "name": "The Last Gladiator",
+    "genre": ["Action", "Drama", "History"],
+    "rating": 8.9,
+    "votes": "76k",
+    "duration": "145 mins",
+    "language": "English",
+    "releaseDate": "2026-06-20",
+    "synopsis": "In the dusty arenas of Rome, a captured soldier fights his way through the ranks to stand before the corrupt Emperor and claim his freedom.",
+    "cast": [
+      { "name": "Russell Crowe", "role": "Maximus" },
+      { "name": "Joaquin Phoenix", "role": "Commodus" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": true
+  },
+  {
+    "id": "m18",
+    "name": "Haunted Cabin",
+    "genre": ["Horror", "Thriller"],
+    "rating": 7.2,
+    "votes": "15k",
+    "duration": "92 mins",
+    "language": "English",
+    "releaseDate": "2026-05-05",
+    "synopsis": "Five college friends rent a secluded cabin in the woods for the weekend, unwittingly unleashing a demonic force bound in a cursed text.",
+    "cast": [
+      { "name": "Kristen Stewart", "role": "Dana" },
+      { "name": "Chris Hemsworth", "role": "Curt" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  },
+  {
+    "id": "m19",
+    "name": "Space Station: Lost",
+    "genre": ["Sci-Fi", "Thriller"],
+    "rating": 8.0,
+    "votes": "24k",
+    "duration": "114 mins",
+    "language": "English",
+    "releaseDate": "2026-05-15",
+    "synopsis": "An astronaut onboard an international research station wakes up to find her crewmates missing and the station drifting towards a massive asteroid belt.",
+    "cast": [
+      { "name": "Sandra Bullock", "role": "Ryan" },
+      { "name": "George Clooney", "role": "Matt" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": true,
+    "isUpcoming": false
+  },
+  {
+    "id": "m20",
+    "name": "The Comedy Central",
+    "genre": ["Comedy", "Romance"],
+    "rating": 7.5,
+    "votes": "12k",
+    "duration": "105 mins",
+    "language": "English",
+    "releaseDate": "2026-05-25",
+    "synopsis": "Two rival stand-up comedians are accidentally booked at the same venue for a week-long residency, forcing them to share the stage and a small dressing room.",
+    "cast": [
+      { "name": "Ryan Reynolds", "role": "Jack" },
+      { "name": "Sandra Bullock", "role": "Jill" }
+    ],
+    "posterUrl": "https://images.unsplash.com/photo-1527224857830-43a7acc85260?w=500&auto=format&fit=crop&q=80",
+    "bannerUrl": "https://images.unsplash.com/photo-1516280440614-37939bbacd6a?w=1200&auto=format&fit=crop&q=80",
+    "isFeatured": false,
+    "isUpcoming": false
+  }
+]

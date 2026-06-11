@@ -1,0 +1,290 @@
+[
+  {
+    "id": "sh1",
+    "movieId": "m1",
+    "theatreId": "t1",
+    "screenId": "s1",
+    "date": "2026-06-11",
+    "time": "09:00 AM",
+    "price": 250
+  },
+  {
+    "id": "sh2",
+    "movieId": "m1",
+    "theatreId": "t1",
+    "screenId": "s1",
+    "date": "2026-06-11",
+    "time": "03:00 PM",
+    "price": 300
+  },
+  {
+    "id": "sh3",
+    "movieId": "m1",
+    "theatreId": "t1",
+    "screenId": "s1",
+    "date": "2026-06-11",
+    "time": "09:00 PM",
+    "price": 350
+  },
+  {
+    "id": "sh4",
+    "movieId": "m2",
+    "theatreId": "t1",
+    "screenId": "s2",
+    "date": "2026-06-11",
+    "time": "12:30 PM",
+    "price": 180
+  },
+  {
+    "id": "sh5",
+    "movieId": "m2",
+    "theatreId": "t1",
+    "screenId": "s2",
+    "date": "2026-06-11",
+    "time": "06:00 PM",
+    "price": 200
+  },
+  {
+    "id": "sh6",
+    "movieId": "m3",
+    "theatreId": "t2",
+    "screenId": "s3",
+    "date": "2026-06-11",
+    "time": "09:00 AM",
+    "price": 400
+  },
+  {
+    "id": "sh7",
+    "movieId": "m3",
+    "theatreId": "t2",
+    "screenId": "s3",
+    "date": "2026-06-11",
+    "time": "03:00 PM",
+    "price": 450
+  },
+  {
+    "id": "sh8",
+    "movieId": "m3",
+    "theatreId": "t2",
+    "screenId": "s3",
+    "date": "2026-06-11",
+    "time": "09:00 PM",
+    "price": 500
+  },
+  {
+    "id": "sh9",
+    "movieId": "m4",
+    "theatreId": "t2",
+    "screenId": "s3",
+    "date": "2026-06-12",
+    "time": "12:30 PM",
+    "price": 400
+  },
+  {
+    "id": "sh10",
+    "movieId": "m4",
+    "theatreId": "t2",
+    "screenId": "s3",
+    "date": "2026-06-12",
+    "time": "06:00 PM",
+    "price": 450
+  },
+  {
+    "id": "sh11",
+    "movieId": "m5",
+    "theatreId": "t3",
+    "screenId": "s4",
+    "date": "2026-06-11",
+    "time": "09:00 AM",
+    "price": 250
+  },
+  {
+    "id": "sh12",
+    "movieId": "m5",
+    "theatreId": "t3",
+    "screenId": "s4",
+    "date": "2026-06-11",
+    "time": "03:00 PM",
+    "price": 300
+  },
+  {
+    "id": "sh13",
+    "movieId": "m5",
+    "theatreId": "t3",
+    "screenId": "s4",
+    "date": "2026-06-11",
+    "time": "09:00 PM",
+    "price": 320
+  },
+  {
+    "id": "sh14",
+    "movieId": "m10",
+    "theatreId": "t1",
+    "screenId": "s1",
+    "date": "2026-06-12",
+    "time": "09:00 AM",
+    "price": 220
+  },
+  {
+    "id": "sh15",
+    "movieId": "m10",
+    "theatreId": "t1",
+    "screenId": "s1",
+    "date": "2026-06-12",
+    "time": "12:30 PM",
+    "price": 250
+  },
+  {
+    "id": "sh16",
+    "movieId": "m10",
+    "theatreId": "t1",
+    "screenId": "s1",
+    "date": "2026-06-12",
+    "time": "06:00 PM",
+    "price": 280
+  },
+  {
+    "id": "sh17",
+    "movieId": "m1",
+    "theatreId": "t6",
+    "screenId": "s7",
+    "date": "2026-06-11",
+    "time": "12:30 PM",
+    "price": 200
+  },
+  {
+    "id": "sh18",
+    "movieId": "m1",
+    "theatreId": "t6",
+    "screenId": "s7",
+    "date": "2026-06-11",
+    "time": "06:00 PM",
+    "price": 220
+  },
+  {
+    "id": "sh19",
+    "movieId": "m3",
+    "theatreId": "t7",
+    "screenId": "s8",
+    "date": "2026-06-11",
+    "time": "03:00 PM",
+    "price": 280
+  },
+  {
+    "id": "sh20",
+    "movieId": "m3",
+    "theatreId": "t7",
+    "screenId": "s8",
+    "date": "2026-06-11",
+    "time": "09:00 PM",
+    "price": 320
+  },
+  {
+    "id": "sh21",
+    "movieId": "m4",
+    "theatreId": "t8",
+    "screenId": "s9",
+    "date": "2026-06-11",
+    "time": "09:00 AM",
+    "price": 380
+  },
+  {
+    "id": "sh22",
+    "movieId": "m4",
+    "theatreId": "t8",
+    "screenId": "s9",
+    "date": "2026-06-11",
+    "time": "06:00 PM",
+    "price": 420
+  },
+  {
+    "id": "sh23",
+    "movieId": "m8",
+    "theatreId": "t5",
+    "screenId": "s6",
+    "date": "2026-06-11",
+    "time": "12:30 PM",
+    "price": 250
+  },
+  {
+    "id": "sh24",
+    "movieId": "m8",
+    "theatreId": "t5",
+    "screenId": "s6",
+    "date": "2026-06-11",
+    "time": "09:00 PM",
+    "price": 350
+  },
+  {
+    "id": "sh25",
+    "movieId": "m11",
+    "theatreId": "t4",
+    "screenId": "s5",
+    "date": "2026-06-11",
+    "time": "03:00 PM",
+    "price": 220
+  },
+  {
+    "id": "sh26",
+    "movieId": "m11",
+    "theatreId": "t4",
+    "screenId": "s5",
+    "date": "2026-06-11",
+    "time": "09:00 PM",
+    "price": 260
+  },
+  {
+    "id": "sh27",
+    "movieId": "m13",
+    "theatreId": "t5",
+    "screenId": "s6",
+    "date": "2026-06-12",
+    "time": "09:00 AM",
+    "price": 200
+  },
+  {
+    "id": "sh28",
+    "movieId": "m13",
+    "theatreId": "t5",
+    "screenId": "s6",
+    "date": "2026-06-12",
+    "time": "03:00 PM",
+    "price": 250
+  },
+  {
+    "id": "sh29",
+    "movieId": "m15",
+    "theatreId": "t5",
+    "screenId": "s6",
+    "date": "2026-06-12",
+    "time": "06:00 PM",
+    "price": 280
+  },
+  {
+    "id": "sh30",
+    "movieId": "m19",
+    "theatreId": "t2",
+    "screenId": "s3",
+    "date": "2026-06-11",
+    "time": "06:00 PM",
+    "price": 450
+  },
+  {
+    "id": "sh31",
+    "movieId": "m19",
+    "theatreId": "t5",
+    "screenId": "s6",
+    "date": "2026-06-12",
+    "time": "12:30 PM",
+    "price": 300
+  },
+  {
+    "id": "sh32",
+    "movieId": "m16",
+    "theatreId": "t1",
+    "screenId": "s1",
+    "date": "2026-06-11",
+    "time": "12:30 PM",
+    "price": 220
+  }
+]

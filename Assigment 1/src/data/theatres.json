@@ -1,0 +1,92 @@
+[
+  {
+    "id": "t1",
+    "name": "Raj Mandir Cinema",
+    "city": "Jaipur",
+    "address": "B-16, Bhagwan Das Rd, Panch Batti, Jaipur",
+    "facilities": ["Dolby Atmos", "Recliners", "Food Court", "Parking"],
+    "ownerId": "u2",
+    "status": "Approved"
+  },
+  {
+    "id": "t2",
+    "name": "PVR Director's Cut",
+    "city": "Delhi",
+    "address": "Ambience Mall, Nelson Mandela Marg, Vasant Kunj, New Delhi",
+    "facilities": ["IMAX", "Dolby Atmos", "Luxury Loungers", "Valet Parking"],
+    "ownerId": "u2",
+    "status": "Approved"
+  },
+  {
+    "id": "t3",
+    "name": "INOX Laserplex",
+    "city": "Mumbai",
+    "address": "Inorbit Mall, Link Rd, Malad West, Mumbai",
+    "facilities": ["Dolby Atmos", "Recliners", "Laser Projection"],
+    "ownerId": "u6",
+    "status": "Approved"
+  },
+  {
+    "id": "t4",
+    "name": "Urvashe Cinema Dolby Atmos",
+    "city": "Bangalore",
+    "address": "Lalbagh Road, Bangalore",
+    "facilities": ["Dolby Atmos", "4K Projection", "Food Court"],
+    "ownerId": "u9",
+    "status": "Approved"
+  },
+  {
+    "id": "t5",
+    "name": "Prasads Multiplex",
+    "city": "Hyderabad",
+    "address": "Lic Office, NTR Marg, Hyderabad",
+    "facilities": ["IMAX Large Screen", "Dolby Atmos", "Gaming Zone"],
+    "ownerId": "u9",
+    "status": "Approved"
+  },
+  {
+    "id": "t6",
+    "name": "Miraj Cinemas",
+    "city": "Jaipur",
+    "address": "EP, Near World Trade Park, Malviya Nagar, Jaipur",
+    "facilities": ["Dolby 7.1", "Food Court", "Parking"],
+    "ownerId": "u2",
+    "status": "Approved"
+  },
+  {
+    "id": "t7",
+    "name": "Delite Cinema",
+    "city": "Delhi",
+    "address": "Asaf Ali Rd, near Turkman Gate, Delhi",
+    "facilities": ["Dolby Atmos", "Vintage Theme", "Cafeteria"],
+    "ownerId": "u6",
+    "status": "Approved"
+  },
+  {
+    "id": "t8",
+    "name": "Carnival Cinemas IMAX",
+    "city": "Mumbai",
+    "address": "Wadala, Mumbai",
+    "facilities": ["IMAX", "Dolby 7.1", "Recliners"],
+    "ownerId": "u6",
+    "status": "Approved"
+  },
+  {
+    "id": "t9",
+    "name": "Pink City Plex (Pending Request)",
+    "city": "Jaipur",
+    "address": "Tonk Road, Jaipur",
+    "facilities": ["Dolby Atmos", "Food Court"],
+    "ownerId": "u2",
+    "status": "Pending"
+  },
+  {
+    "id": "t10",
+    "name": "Cyberabad Cinema Hall (Pending Request)",
+    "city": "Hyderabad",
+    "address": "Hitech City, Hyderabad",
+    "facilities": ["IMAX", "Luxury Loungers"],
+    "ownerId": "u9",
+    "status": "Pending"
+  }
+]

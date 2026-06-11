@@ -1,0 +1,128 @@
+[
+  {
+    "id": "s1",
+    "theatreId": "t1",
+    "name": "Screen 1 (Dolby Atmos)",
+    "type": "Dolby Atmos",
+    "rows": ["A", "B", "C", "D", "E", "F"],
+    "columns": 10,
+    "capacity": 60,
+    "categories": {
+      "Premium": ["A", "B"],
+      "Gold": ["C", "D"],
+      "Silver": ["E", "F"]
+    }
+  },
+  {
+    "id": "s2",
+    "theatreId": "t1",
+    "name": "Screen 2",
+    "type": "Standard 2D",
+    "rows": ["A", "B", "C", "D", "E"],
+    "columns": 8,
+    "capacity": 40,
+    "categories": {
+      "Premium": ["A"],
+      "Gold": ["B", "C"],
+      "Silver": ["D", "E"]
+    }
+  },
+  {
+    "id": "s3",
+    "theatreId": "t2",
+    "name": "PVR IMAX",
+    "type": "IMAX",
+    "rows": ["A", "B", "C", "D", "E", "F", "G"],
+    "columns": 12,
+    "capacity": 84,
+    "categories": {
+      "Premium": ["A", "B", "C"],
+      "Gold": ["D", "E"],
+      "Silver": ["F", "G"]
+    }
+  },
+  {
+    "id": "s4",
+    "theatreId": "t3",
+    "name": "Laserplex Screen 1",
+    "type": "Dolby Atmos",
+    "rows": ["A", "B", "C", "D", "E", "F"],
+    "columns": 10,
+    "capacity": 60,
+    "categories": {
+      "Premium": ["A", "B"],
+      "Gold": ["C", "D"],
+      "Silver": ["E", "F"]
+    }
+  },
+  {
+    "id": "s5",
+    "theatreId": "t4",
+    "name": "Main Hall",
+    "type": "Dolby Atmos",
+    "rows": ["A", "B", "C", "D", "E", "F", "G", "H"],
+    "columns": 12,
+    "capacity": 96,
+    "categories": {
+      "Premium": ["A", "B", "C"],
+      "Gold": ["D", "E", "F"],
+      "Silver": ["G", "H"]
+    }
+  },
+  {
+    "id": "s6",
+    "theatreId": "t5",
+    "name": "Prasads IMAX",
+    "type": "IMAX",
+    "rows": ["A", "B", "C", "D", "E", "F", "G", "H"],
+    "columns": 14,
+    "capacity": 112,
+    "categories": {
+      "Premium": ["A", "B", "C"],
+      "Gold": ["D", "E", "F"],
+      "Silver": ["G", "H"]
+    }
+  },
+  {
+    "id": "s7",
+    "theatreId": "t6",
+    "name": "Screen 1",
+    "type": "Standard 2D",
+    "rows": ["A", "B", "C", "D", "E"],
+    "columns": 10,
+    "capacity": 50,
+    "categories": {
+      "Premium": ["A"],
+      "Gold": ["B", "C"],
+      "Silver": ["D", "E"]
+    }
+  },
+  {
+    "id": "s8",
+    "theatreId": "t7",
+    "name": "Grand Hall",
+    "type": "Dolby Atmos",
+    "rows": ["A", "B", "C", "D", "E", "F"],
+    "columns": 12,
+    "capacity": 72,
+    "categories": {
+      "Premium": ["A", "B"],
+      "Gold": ["C", "D"],
+      "Silver": ["E", "F"]
+    }
+  },
+  {
+    "id": "s9",
+    "theatreId": "t8",
+    "name": "Wadala IMAX",
+    "type": "IMAX",
+    "rows": ["A", "B", "C", "D", "E", "F"],
+    "columns": 12,
+    "capacity": 72,
+    "categories": {
+      "Premium": ["A", "B"],
+      "Gold": ["C", "D"],
+      "Silver": ["E", "F"]
+    }
+  }
+]

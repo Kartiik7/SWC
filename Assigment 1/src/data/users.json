@@ -1,0 +1,92 @@
+[
+  {
+    "id": "u1",
+    "name": "Alex Mercer",
+    "email": "user@cineverse.com",
+    "role": "user",
+    "status": "Active",
+    "phone": "+1 (555) 019-2834",
+    "address": "742 Evergreen Terrace, Jaipur"
+  },
+  {
+    "id": "u2",
+    "name": "Sarah Connor",
+    "email": "owner@cineverse.com",
+    "role": "owner",
+    "status": "Active",
+    "phone": "+1 (555) 024-5867",
+    "address": "42 Outer Rim Drive, Mumbai"
+  },
+  {
+    "id": "u3",
+    "name": "Neo Morpheus",
+    "email": "admin@cineverse.com",
+    "role": "admin",
+    "status": "Active",
+    "phone": "+1 (555) 099-1002",
+    "address": "Room 101, Nebuchadnezzar, Delhi"
+  },
+  {
+    "id": "u4",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "user",
+    "status": "Active",
+    "phone": "+91 98765 43210",
+    "address": "Civil Lines, Jaipur"
+  },
+  {
+    "id": "u5",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "role": "user",
+    "status": "Blocked",
+    "phone": "+91 91234 56789",
+    "address": "Connaught Place, Delhi"
+  },
+  {
+    "id": "u6",
+    "name": "Bruce Wayne",
+    "email": "bruce@waynecorp.com",
+    "role": "owner",
+    "status": "Active",
+    "phone": "+1 (555) 948-2668",
+    "address": "Wayne Manor, Gotham"
+  },
+  {
+    "id": "u7",
+    "name": "Clark Kent",
+    "email": "clark@dailyplanet.com",
+    "role": "user",
+    "status": "Active",
+    "phone": "+1 (555) 289-3991",
+    "address": "344 Clinton St, Metropolis"
+  },
+  {
+    "id": "u8",
+    "name": "Peter Parker",
+    "email": "peter@dailybugle.com",
+    "role": "user",
+    "status": "Active",
+    "phone": "+1 (555) 918-0909",
+    "address": "Forest Hills, Queens, NY"
+  },
+  {
+    "id": "u9",
+    "name": "Tony Stark",
+    "email": "tony@starkindustries.com",
+    "role": "owner",
+    "status": "Active",
+    "phone": "+1 (555) 300-3000",
+    "address": "10880 Malibu Point, Malibu"
+  },
+  {
+    "id": "u10",
+    "name": "Barry Allen",
+    "email": "barry@ccpd.gov",
+    "role": "user",
+    "status": "Active",
+    "phone": "+1 (555) 283-7733",
+    "address": "Central City Police Dept"
+  }
+]
